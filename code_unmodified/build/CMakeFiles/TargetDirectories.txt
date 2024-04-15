@@ -1,0 +1,3 @@
+/Users/javiersantana/Desktop/INF 2022:2023/Maquina Virtual/AyEDA/PR5/PR5_no_modi/build/CMakeFiles/Sort.dir
+/Users/javiersantana/Desktop/INF 2022:2023/Maquina Virtual/AyEDA/PR5/PR5_no_modi/build/CMakeFiles/edit_cache.dir
+/Users/javiersantana/Desktop/INF 2022:2023/Maquina Virtual/AyEDA/PR5/PR5_no_modi/build/CMakeFiles/rebuild_cache.dir

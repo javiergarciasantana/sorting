@@ -1,0 +1,22 @@
+  // std::vector<long> v_1 = {44, 55, 12, 42, 94, 18, 6, 67};
+
+  // std::cout << "seq: {";
+  // for (int i = 0; i < v_1.size(); ++i) {
+  //   std::cout << v_1.at(i) << " ";
+  // }
+  // std::cout << "}" << std::endl;
+  
+  // Insertion<long> in(v_1, v_1.size());
+  // in.PrintSeq();
+
+  // HeapSort<long> hs(v_1, v_1.size());
+  // hs.PrintSeq();
+
+  // MergeSort<long> ms(v_1, v_1.size());
+  // ms.PrintSeq();
+
+  // RadixSort<long> rs(v_1, v_1.size());
+  // rs.PrintSeq();
+
+  // ShellSort<long> ss(v_1, v_1.size(), 0.5);
+  // ss.PrintSeq();

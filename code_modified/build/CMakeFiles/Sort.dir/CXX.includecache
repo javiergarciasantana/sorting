@@ -1,0 +1,74 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/practicas/AyEDA/PR5 MODI/src/heap_sort.h
+sort_method.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/sort_method.h
+library.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/library.h
+
+/home/usuario/practicas/AyEDA/PR5 MODI/src/insertion.h
+iostream
+-
+sort_method.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/sort_method.h
+library.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/library.h
+
+/home/usuario/practicas/AyEDA/PR5 MODI/src/library.h
+algorithm
+-
+chrono
+-
+sort_method.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/sort_method.h
+
+/home/usuario/practicas/AyEDA/PR5 MODI/src/merge_sort.h
+algorithm
+-
+sort_method.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/sort_method.h
+library.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/library.h
+
+/home/usuario/practicas/AyEDA/PR5 MODI/src/radix_sort.h
+sort_method.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/sort_method.h
+library.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/library.h
+
+/home/usuario/practicas/AyEDA/PR5 MODI/src/shell_sort.h
+sort_method.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/sort_method.h
+library.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/library.h
+
+/home/usuario/practicas/AyEDA/PR5 MODI/src/sort_main.cc
+vector
+-
+cstdlib
+-
+iostream
+-
+bits/stdc++.h
+-
+insertion.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/insertion.h
+heap_sort.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/heap_sort.h
+merge_sort.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/merge_sort.h
+shell_sort.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/shell_sort.h
+radix_sort.h
+/home/usuario/practicas/AyEDA/PR5 MODI/src/radix_sort.h
+
+/home/usuario/practicas/AyEDA/PR5 MODI/src/sort_method.h
+vector
+-
+
